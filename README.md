@@ -1,6 +1,6 @@
 # Time Tracker 
 
-### It's a simple application that makes possible to track overtime of employees. It contains things like SMS notifications, email notifications, admin panel to confirm employee's overtime. 
+#### It's a simple application that makes possible to track overtime of employees. It contains things like SMS notifications, email notifications, admin panel to confirm employee's overtime. 
 
 ## Available features:
 
